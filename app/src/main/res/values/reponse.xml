@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="serie1_q1_rep1">تحديد السرعة</string>
+    <string name="serie1_q1_rep2">أدنى سرعة اجبارية</string>
+    <string name="serie1_q1_rep3">السرعة المنصوح بها</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TP_AutoEcole</string>
+    <string name="aide">Besoin d\'aide?</string>
+    <string name="username">Username</string>
+    <string name="password">********</string>
+    <string name="authentifier">S\'authentifier</string>
+    <string name="logo_auto_ecole">Logo Auto Ecole</string>
+    <string name="inscription_question">Vous êtes pas membre?</string>
+    <string name="inscrivez_vous">Inscrivez-vous !</string>
+    <string name="inscription">Inscription</string>
+    <string name="valider">Valider</string>
+    <string name="name">Nom Complet</string>
+    <string name="email">someone@email.com</string>
+    <string name="homme">Homme</string>
+    <string name="femme">Femme</string>
+    <string name="respect_vitesse">vitesse min 60</string>
+    <string name="score">score</string>
+
+</resources>

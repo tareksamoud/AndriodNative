@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "962551863113",
+    "firebase_url": "https://auto-ecole-training.firebaseio.com",
+    "project_id": "auto-ecole-training",
+    "storage_bucket": "auto-ecole-training.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962551863113:android:c9187ceeed1efdb9fbac98",
+        "android_client_info": {
+          "package_name": "tarek.samoud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962551863113-kg0npgc44naus72lk8hde8u8m669879p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tarek.samoud",
+            "certificate_hash": "c0cf4b91abfa9b61d4bd38c9698aefdf7ae0d7d9"
+          }
+        },
+        {
+          "client_id": "962551863113-aj1ogriirufhmoft7djo63vkosjr4efk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBrSSEu5DADxhCLMP_GWvvc_I-jamFRiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962551863113-aj1ogriirufhmoft7djo63vkosjr4efk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
